@@ -7,6 +7,9 @@ contributor:
     deathdate: 1931
     gutenberg_agent_id: '25738'
     url: http://www.gutenberg.org/2009/agents/25738
+covers:
+- cover_type: archival
+  image_path: 64903-h/images/cover.jpg
 creator:
   author:
     agent_name: Sabin, Edwin L. (Edwin Legrand)
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9476
     wikipedia: https://en.wikipedia.org/wiki/Edwin_L._Sabin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64903#Opening-the-West-with-Lewis-and-Clark-By-Boat-Horse-and-Foot-up-the-Great-River-Missouri-Acro_
 gutenberg_issued: '2021-03-22'
 gutenberg_type: Text
 identifiers:
